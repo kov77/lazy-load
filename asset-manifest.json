@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/lazy-load/static/css/main.31d6cfe0.css",
+    "main.js": "/lazy-load/static/js/main.ba33c13c.js",
+    "index.html": "/lazy-load/index.html",
+    "main.ba33c13c.js.map": "/lazy-load/static/js/main.ba33c13c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ba33c13c.js"
+  ]
+}
